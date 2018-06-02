@@ -1,0 +1,1 @@
+new Boolean(new Integer(($V{COUNTER}.intValue())%2).equals(new Integer("1")))
